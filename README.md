@@ -7,8 +7,11 @@ Nibbly Dash es una ardilla voxel de estilo low poly inspirada en juegos arcade c
 El personaje se mueve utilizando el teclado:
 
 W → Avanzar
+
 A → Mover a la izquierda
+
 S → Retroceder
+
 D → Mover a la derecha
 
 El movimiento es simple, directo y pensado para una experiencia tipo arcade.
